@@ -131,6 +131,10 @@ main .cartao_pokemon .tipo {
     background-color: #fff347da;
 }
 
+.terra {
+    background-color:chocolate;
+}
+
 main .descricao {
     max-height: 80px;
     overflow-y: scroll;
